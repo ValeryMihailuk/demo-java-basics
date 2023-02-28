@@ -1,7 +1,7 @@
 package by.itacademy.valerymihailuk.javabasics;
 
-public class Util {
-    public static final input (){
+import java.util.Scanner;
 
-    }
+public class Util {
+
 }
